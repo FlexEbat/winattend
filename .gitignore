@@ -1,0 +1,13 @@
+bin/
+dist/
+coverage.out
+*.exe
+*.test
+
+.idea/
+.vscode/
+
+tmp/
+
+*.xml
+*.iso
